@@ -15,7 +15,7 @@ function getDataFromRest(input1, input2){
 
 // This function takes in the id of the pane
 //result: show the pane whose id is input and hide the other pane 
-function toggleTTab(tabID) {
+function toggleTab(tabID) {
 
 	document.getElementById("pane1").style = "";
 	document.getElementById("pane2").style = "";
