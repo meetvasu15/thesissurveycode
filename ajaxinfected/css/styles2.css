@@ -1,0 +1,13 @@
+.tab-button{
+	width: 50%;
+	box-sizing: border-box;
+	float: left;
+	padding: 2%;
+	border-left:2px solid white;
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.tab-button-selected{
+	background-color:#5F789E;
+}
